@@ -1,12 +1,12 @@
 {
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "Terminal AI coding agent — animated TUI, multi-provider, tool-calling",
   "homepage": "https://github.com/katipally/friday-code",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/katipally/friday-code/releases/download/v2.0.10/friday-win32-x64.exe#/friday.exe",
-      "hash": "ebbb08185f85373eda6939bc6b9550dcc5cba113250623050ffb2f1289d54866"
+      "url": "https://github.com/katipally/friday-code/releases/download/v2.0.11/friday-win32-x64.exe#/friday.exe",
+      "hash": "a9396d2aae021e68b61d8e4a243f6ea8085fa6d37375401c5b4d6a52a86bd643"
     }
   },
   "bin": "friday.exe",
